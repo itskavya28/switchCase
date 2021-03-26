@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input[id="input1"] {
+  margin:100px auto;
+  width:500px;
+  height: 30px;
+}
+
+/* button {
+  width:100px;
+  height: 40px;
+} */
+
+.pointer {
+  cursor: pointer;
+}
+
