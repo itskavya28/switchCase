@@ -1,3 +1,9 @@
+# Switch Case 
+its a simple example illustration usage of react-redux state management.
+through this code you can switch the alpha case of your entire application to - upper case or lower case or normal case.
+Enjoy the coding!
+Suggestions and enhancements are always welcome!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
